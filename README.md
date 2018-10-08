@@ -7,8 +7,8 @@ The point to building this bot was to see if I could fit all of the
 functionality needed into a serverless architecture and the constraints it
 presents.
 
-Go and follow the bot here twitter.com/PriceDropAlertz and send it some
-items to track! If you want to request a new feature send twitter.com/Beautifwhale a message.
+Go and follow the bot [here](https://twitter.com/PriceDropAlertz) and send it some
+items to track! If you want to request a new feature send [@Beautifwhale](https://twitter.com/Beautifwhale) a message.
 
 ## Info
 
